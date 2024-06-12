@@ -65,5 +65,5 @@ ROLE_IMAGE = [
 
 HTML_PATH = {
     "pre": "https://dev.g.alicdn.com/catch-stars/catch-up-stars/0.0.1/",
-    "prod": "https://xxxxx"
+    "prod": "https://g.alicdn.com/catch-stars/catch-up-stars/0.0.1/"
 }
